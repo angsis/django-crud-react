@@ -1,0 +1,28 @@
+# Archivos y directorios comunes de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de base de datos
+*.sqlite3
+db.sqlite3
+
+# Archivos de configuración sensibles
+.env
+*.json
+
+# Directorios de IDEs (opcional, si usas VS Code, PyCharm, etc.)
+.idea/
+.vscode/
+
+# Archivos de logs
+*.log
